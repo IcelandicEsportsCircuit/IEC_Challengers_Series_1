@@ -53,11 +53,11 @@ The format of IEC for the 2026/27 season is as follows:
 ### IEC Challengers Series 1 (Áskorendamót Ljósleiðarans)
 | Event Stage | # Teams | Format | # Winners |
 |---|---|---|---|
-| Open Qualifiers | Open Sign-ups | Single Elimination BO1's<br>Semi Final BO3's for Qualification | 8 Teams advance to next stage |
-| Group Stage | 8 Qualified | Double Elimination BO3 Matches | 2 Teams advance to LAN Finals |
+| Open Qualifiers | Open Sign-ups | Modified Swiss System <br>Rounds 1 and 2 BO1's, Rounds 3, 4 and 5 BO3's | 8 Teams advance to next stage |
+| Knockout Stage | 8 Qualified | Single Elimination BO3 Matches | 2 Teams advance to LAN Finals |
 | LAN Finals | 2 Qualified | BO5 Match | 2 Prize Money Winners |
 
-UKIC reserves the right to add Open Qualifiers by announcing it via [@UKICircuit](https://x.com/UKICircuit) on X with the Event Additional Information, as per the Valve TOR.
+IEC reserves the right to add Open Qualifiers by announcing it via [@UKICircuit](https://x.com/UKICircuit) on X with the Event Additional Information, as per the Valve TOR.
 
 ## 3.2 VRS Invites
 
