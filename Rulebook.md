@@ -1,4 +1,4 @@
-This rulebook governs the 2026/27 season of the IEC. All players who compete in the IEC agree to follow the rules outlined in this document. For any questions please contact the tournament officials and defer to their judgement.
+This rulebook governs the IEC Challengers Series 1. All players who compete in the IEC Challengers Series 1 agree to follow the rules outlined in this document. For any questions please contact the tournament officials and defer to their judgement.
 
 For contact purposes please reach out through rafithrottir@rafithrottir.is
 
@@ -48,16 +48,28 @@ Each Event Additional Information will be announced, as per Valve TOR, via [@UKI
 
 ## 3.1 Tournament Information
 
-The format of IEC for the 2026/27 season is as follows:
+The format of IEC Challengers Series 1 is as follows:
 
-### IEC Challengers Series 1 (Áskorendamót Ljósleiðarans)
-| Event Stage | # Teams | Format | # Winners |
+| Event Stage | Teams | Format | Winners |
 |---|---|---|---|
-| Open Qualifiers | Open Sign-ups | Modified Swiss System <br>Rounds 1 and 2 BO1's, Rounds 3, 4 and 5 BO3's | 8 Teams advance to next stage |
+| Open Qualifiers | Open Sign-ups <br> 16 available spots | Modified Swiss System <br>Rounds 1 and 2 BO1's, Rounds 3, 4 and 5 BO3's | 8 Teams advance to next stage |
 | Knockout Stage | 8 Qualified | Single Elimination BO3 Matches | 2 Teams advance to LAN Finals |
+| Third Place Decider | 2 Qualified | BO3 Match | 1 Prize Money Winners |
 | LAN Finals | 2 Qualified | BO5 Match | 2 Prize Money Winners |
 
-IEC reserves the right to add Open Qualifiers by announcing it via [@UKICircuit](https://x.com/UKICircuit) on X with the Event Additional Information, as per the Valve TOR.
+
+### Open Qualifer Rules
+List of registered teams is available here: _Add link to form/sheet_
+
+The tournament features a strict maximum capacity of 16 teams. While registration is open to an unlimited number of applicants, entry into the active tournament bracket is not guaranteed by registration time. Upon the registration deadline, all checked-in teams will be ranked according to the Seeding Priority Hierarchy (Section X.1). The top 16 highest-seeded teams will be admitted into the active tournament bracket. All remaining teams ranked 17th and below will be placed on a sequential Waiting List based on their seed.
+
+Teams will be seeded into the open qualifer based on the following criteria:
+1. Valve Regional Standings (VRS): All registered teams holding an active, official Global VRS rank will automatically receive the highest priority seeds, ordered sequentially from the highest VRS rank to the lowest.
+2. FACEIT Elo
+
+
+
+IEC reserves the right to adjust the Open Qualifiers by announcing it via [@UKICircuit](https://x.com/UKICircuit) on X with the Event Additional Information, as per the Valve TOR. !!!
 
 ## 3.2 VRS Invites
 
