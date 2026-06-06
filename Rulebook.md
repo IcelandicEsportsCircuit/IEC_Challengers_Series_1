@@ -77,7 +77,7 @@ Teams are seeded into the active bracket or waiting list based on the following 
 
 **Player Responsibilities & Data Integrity:**
 
-Players are entirely responsible for providing IEC with their correct FACEIT profile link via the official Player Registration Form.
+Players are entirely responsible for providing IEC with their correct FACEIT profile link via the official IEC Player Registration Form.
 
 Failure to provide a valid FACEIT profile link will result in that specific player being calculated as 0 Elo toward the starting roster's team average, severely impacting the team's overall seeding priority.
 
