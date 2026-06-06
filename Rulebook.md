@@ -73,7 +73,7 @@ Teams are seeded into the active bracket or waiting list based on the following 
 
 1. Valve Regional Standings (VRS): All registered teams holding an active, official Global VRS rank will automatically receive the highest priority seeds, ordered sequentially from the highest VRS rank to the lowest.
 2. FACEIT Elo: All remaining unranked teams will be seeded below the VRS tier, ordered by the mathematical average FACEIT Elo of their registered starting roster.
-3. Time of Registration: If the 20-team capacity is not filled after applying the first two criteria, the remaining teams will be seeded based on registration timestamps, with earlier registrations receiving higher seeds.
+3. Time of Registration: In the rare occurrence that two unranked teams share an identical average FACEIT Elo, the registration timestamp will be used as the final tiebreaker. The team that successfully completed their registration first will be awarded the higher seed.
 
 **Player Responsibilities & Data Integrity:**
 
