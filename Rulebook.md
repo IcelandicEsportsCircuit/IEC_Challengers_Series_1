@@ -4,7 +4,7 @@ For contact purposes please reach out to RÍSÍ through rafithrottir@rafithrotti
 
 # 1.0 Definitions
 
-- **RÍSÍ:** The Icelandic Esports Association, and the owners and organizers of IEC ****
+- **RÍSÍ:** The Icelandic Esports Association, and the owners and organizers of IEC
 - **IEC:** The Icelandic Esports Circuit, a series of local tournaments for the Icelandic esports community
 - **Mótaröð Ljósleiðarans:** The official local name for the IEC
 - **Participants:** Teams and players who participate in IEC
