@@ -93,7 +93,7 @@ The Open Qualifier structure scales dynamically based on the final number of che
 
 ### 3.1.2 Main Event Rules & Regulations
 **Main Event Seeding Priority Hierarchy:**
-The Main Event stage consists entirely of teams advancing from the Open Qualifier. Initial seeding for the Main Event bracket/groups will be reset and determined strictly by Valve Tournament Operating Requirements (TOR) regarding stage seeding:
+The Main Event stage consists entirely of teams advancing from the Open Qualifier. Initial seeding for the Main Event bracket will be reset and determined strictly by Valve Tournament Operating Requirements (TOR) regarding stage seeding:
 
 1. **VRS Priority:** Any advancing teams holding an active Global Valve Regional Standings (VRS) rank as of the locked snapshot date will automatically be assigned the highest seeds, ordered from highest global rank to lowest.
 2. **Qualifier Performance:** All unranked teams will be seeded below the VRS-ranked teams. Their seeding order will be determined by their placement in the Open Qualifier GSL Groups.
