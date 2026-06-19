@@ -1,6 +1,6 @@
-This rulebook governs the IEC Challengers Series 1. All players who compete in the IEC Challengers Series 1 agree to follow the rules outlined in this document. For any questions please contact the tournament officials and defer to their judgement.
+This rulebook governs the LD Challengers Series 1 (Áskorendamót Ljósleiðarans Haust 2026). All players who compete in the LD Challengers Series 1 agree to follow the rules outlined in this document. For any questions please contact the tournament officials and defer to their judgement.
 
-For contact purposes please reach out to RÍSÍ through rafithrottir@rafithrottir.is
+For contact purposes please reach out to the tournament operator, RÍSÍ, through rafithrottir@rafithrottir.is
 
 # 1.0 Definitions
 
@@ -37,7 +37,7 @@ Any concerns regarding the tournament integrity, including (but not limited to) 
 
 ## 2.3 Valve Tournament Operating Requirements
 
-IEC tournaments are operated in compliance with Valve’s Tournament Operating Requirements, according to regulations set out for Tier 2 events.
+LD tournaments are operated in compliance with Valve’s Tournament Operating Requirements, according to regulations set out for Tier 2 events.
 
 The format of each tournament may be changed according to the needs of TO. The exact format and schedule will be presented to the invited teams by the TO prior to each competition.
 
@@ -47,7 +47,7 @@ Each Event Additional Information will be announced, as per Valve TOR, via [@UKI
 
 ## 3.1 Tournament Information
 
-The format of IEC Challengers Series 1 is as follows:
+The format of LD Challengers Series 1 is as follows:
 
 | Event Stage | Teams | Format | Winners |
 |---|---|---|---|
@@ -76,12 +76,11 @@ Teams are seeded into the active bracket or waiting list based on the following 
 
 **Player Responsibilities & Data Integrity:**
 
-Players are entirely responsible for providing IEC with their correct FACEIT profile link via the official IEC Player Registration Form.
+Players are entirely responsible for providing LD with their correct FACEIT profile link via the official LD Player Registration Form.
 
 Failure to provide a valid FACEIT profile link will result in that specific player being calculated as 0 Elo toward the starting roster's team average, severely impacting the team's overall seeding priority.
 
 **Open Qualifier format and scaling**
-
 
 The Open Qualifier structure scales dynamically based on the final number of checked-in teams to ensure a clean mathematical progression:
 
@@ -104,9 +103,9 @@ If invites are used they will be based on VRS sub-lists, as follows:
 
 | Event | VRS Region & Sub Lists | Starting Rank | # Slots |
 |---|---|---|---|
-| IEC Challengers Series 1 | Europe VRS<br>(Iceland Country Filter) | Starting from Rank 12 | 4 Invites |
+| LD Challengers Series 1 | Europe VRS<br>(Iceland Country Filter) | Starting from Rank 12 | 4 Invites |
 
-If the number of eligible VRS Teams is lower than the total number of Direct VRS Invite slots, IEC reserves the right to reallocate any unfilled slot(s) to Open Qualifiers. This reallocation will be announced via [@UKICircuit](https://x.com/UKICircuit) on X prior to the event.
+If the number of eligible VRS Teams is lower than the total number of Direct VRS Invite slots, LD reserves the right to reallocate any unfilled slot(s) to Open Qualifiers. This reallocation will be announced via [@UKICircuit](https://x.com/UKICircuit) on X prior to the event.
 
 ## 3.3 Invite Date
 
@@ -122,11 +121,11 @@ In accordance with Valve’s TOR, the Invite Date, VRS Dates, and Invite Breakdo
 
 If a team cannot, for any reason, participate in the tournament a replacement may be attributed to the next highest-ranked team available, VRS Team, using the same filters and Invite VRS.
 
-IEC reserves the right to deny any team replacement if it is deemed to disrupt the competitive flow, schedule, or integrity of the event. In such cases, the original team will remain in the bracket and all remaining matches will be forfeited until the team is officially eliminated from the tournament.
+LD reserves the right to deny any team replacement if it is deemed to disrupt the competitive flow, schedule, or integrity of the event. In such cases, the original team will remain in the bracket and all remaining matches will be forfeited until the team is officially eliminated from the tournament.
 
 ## 3.5 Open Qualifier Slots
 
-Any team that qualifies through Open Qualifiers must be fully eligible to compete in the Main Event, in line with Valve’s Tournament Operating Requirements and the IEC Rulebook. This includes:
+Any team that qualifies through Open Qualifiers must be fully eligible to compete in the Main Event, in line with Valve’s Tournament Operating Requirements and the LD Rulebook. This includes:
 
 1. The core roster, for all matches, must currently reside in the region they are competing in.
 2. The core roster used to qualify (at least 3 of the 5 players) must be maintained for all starting matches of the regional event.
@@ -156,26 +155,24 @@ Please use the link below to join: [UK & Ireland Circuit Discord](https://ukicir
 
 ## 3.9 Prize Money
 
-Total Prize Pool per Season: £2,500 (~ $3,345 USD)
+Total Prize Pool for LD Challenger Series 1: 500,000 kr. (~ $3,971 USD)
 1st Place: 300,000 kr. (~ $2,380 USD)
 2nd Place: 125,000 kr. (~ $991 USD)
 3RD Place: 75,000 kr. (~ $595 USD)
 
-Prize money will be paid out after receipt of a valid invoice, within the payment tranche following the conclusion of all Divisions within a UKIC Season.
-
-Participants are obligated to provide a valid invoice as designated by Tournament Officials, in order to receive prize money. Failure to provide a valid invoice may result in delayed receipt of prize money funds.
+Prize money will be paid out through wire tranfer after the conclusion of the tournament using the national identification number (kennitala) and bank number (bankanúmer) the team provided in the registration.
 
 ## 3.10 Match Broadcasting
 
 ### 3.10.1 Rights
 
-All of the broadcasting rights of UKIC are owned by Endpoint Esports LTD.
+All of the broadcasting rights of LD are owned by the Icelandic Esports Federation.
 
 This includes, but is not limited to: Broadcast streams, video streams, podcast streams, radio streams, GOTV, replays, demos, and TV Broadcasts.
 
-By participating in UKIC, each team and team member consents that their likeness (logo, voice, image, name, nickname, etc) are recorded and broadcasted live and on demand on streaming platforms designated by the organiser.
+By participating in LD, each team and team member consents that their likeness (logo, voice, image, name, nickname, etc) are recorded and broadcasted live and on demand on streaming platforms designated by the organiser.
 
-UKIC retains the rights to utilising all UKIC footage at its own discretion.
+LD retains the rights to utilising all LD footage at its own discretion.
 
 ### 3.10.2 Protection of Rights
 
