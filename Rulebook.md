@@ -215,15 +215,7 @@ Forfeiting matches or withdrawing will also result in forfeiture of any Prize Mo
 
 ### 4.1.2 Roster Eligibility
 
-The total number of team members must not exceed 9 (including 5 players, 3 stand-ins and a coach).
-
-A team must always have at least 3 players in the server that are either citizens or residents of the following countries:
-
-- Icelandic citizens.
-- Residing in Iceland.
-- Isle of Man
-- Jersey
-- Guernsey
+The total number of team members must not exceed 8 (including 5 players, 2 stand-ins and a coach).
 
 No player transfers between teams will be allowed within the same season.
 
@@ -238,9 +230,9 @@ Any changes to the team must be approved by Tournament Officials before any upco
 
 Each team is permitted to register two (2) stand-in players at a time for the event. The team coach may also serve as a stand-in, subject to all applicable rules outlined herein.
 
-Stand-ins are eligible only if they have not participated for another team in the same Season. A stand-in must be approved by Tournament Officials at least 1 hour prior to the start of the respective match.
+Stand-ins are eligible only if they have not participated for another team in the same tournament. A stand-in must be approved by Tournament Officials prior to the start of the respective match.
 
-Once a stand-in has played for a team in a Season, they are locked to that team for the duration of that Season.
+Once a stand-in has played for a team in a tournament, they are locked to that team for the duration of that tournament.
 
 Roster changes, including the use of stand-ins, are not permitted mid-map (Map is ongoing). However, in-between maps roster changes are allowed.
 
@@ -250,14 +242,10 @@ The use of a stand-in must not violate the VRS Core Roster requirement. Each tea
 
 Teams are allowed to designate one individual as a coach during matches. The coach will not be connected to the game server but is permitted to join the team’s voice communication channel.
 
-The designated coach may step in as a stand-in in accordance with [4.1.3 Stand-in Rules](https://www.notion.so/Rulebook-2648b29a95c48185babed146c5e3ea0f?pvs=21), and must fully comply with all eligibility and registration requirements outlined therein. The coach will be considered a player and will follow any rules accordingly.
+The designated coach may step in as a stand-in in accordance with the 4.1.3 Stand-in Rules, and must fully comply with all eligibility and registration requirements outlined therein. The coach will be considered a player and will follow any rules accordingly.
 
 Players are allowed to provide a private stream of the match to their coach for tactical purposes. This stream must be accessible only to the team’s technical staff. Any unauthorised access or distribution of the stream is strictly prohibited and may result in penalties, including potential disqualification from the event.
 
-### 4.1.4 Coach Rules
-
-_Add here rules regarding core roster 3/5 players and how they hold invite spots between tournaments.
-_
 ## 4.2 Match Rules and Details
 
 ### 4.2.1 Counter-Strike Version
