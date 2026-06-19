@@ -15,8 +15,8 @@ For contact purposes please reach out to RÍSÍ through rafithrottir@rafithrotti
 - **Publisher’s Rights:** The rights held by the game publisher (Valve) in relation to any LD event.
 - **Communication:** The means of communication used by the Tournament Officials, participants, and partners, such as discord, chat, or voice communication.
 - **Prize Money:** The monetary rewards given to the winning teams of a LD event.
- - **Match Broadcasting:** The broadcasting of IEC matches through online platforms such as streaming services
-- **Rights:** The rights held by IEC in relation to the broadcasting and promotion of IEC matches
+- **Match Broadcasting:** The broadcasting of LD matches through online platforms such as streaming services.
+- **Rights:** The rights held by LD in relation to the broadcasting and promotion of LD matches.
 - **Valve Corporation (Valve):** The publisher of Counter-Strike 2 (CS2)
 - **Valve Regional Standings (VRS):** The official system for ranking the performance of Rosters published by Valve, provided for the respective regions and applied at the designated Invite Date
 - **Valve Tournament Operating Requirements (TOR):** The official requirements to operate any event in the Counter-Strike 2 (CS2) ecosystem, created and operated by Valve
