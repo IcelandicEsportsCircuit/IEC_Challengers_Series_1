@@ -4,19 +4,18 @@ For contact purposes please reach out to RÍSÍ through rafithrottir@rafithrotti
 
 # 1.0 Definitions
 
-- **RÍSÍ:** The Icelandic Esports Association, and the owners and organizers of IEC
-- **IEC:** The Icelandic Esports Circuit, a series of local tournaments for the Icelandic esports community
-- **Mótaröð Ljósleiðarans:** The official local name for the IEC
-- **Participants:** Teams and players who participate in IEC
-- **Team Core:** A team’s core consists of three (3) players out of the five (5) players at a minimum
-- **Tournament Officials:** Referees and other Officials involved in operating IEC
-- **IEC Partners:** Organisations that are involved with and supporting the IEC (Mótaröð Ljósleiðarans)
-- **Counter-Strike 2 (CS2):** The game title utilised for the competition
-- **LAN Finals:** The final of the competition hosted in Iceland
-- **Publisher’s Rights:** The rights held by the game publisher (Valve) in relation to the UKIC event
-- **Communication:** The means of communication used by the Tournament Officials, participants, and partners, such as discord, chat, or voice communication
-- **Prize Money:** The monetary rewards given to the winning teams of IEC
-- **Match Broadcasting:** The broadcasting of IEC matches through online platforms such as streaming services
+- **RÍSÍ:** The Icelandic Esports Federation, and the owners and organizers of LD.
+- **LD:** Ljósleiðaradeildin, the Icelandic tournament circuit for CS2.
+- **Participants:** Teams and players who participate in LD.
+- **Team Core:** A team’s core consists of three (3) players out of the five (5) players at a minimum.
+- **Tournament Officials:** Referees and other Officials involved in operating LD.
+- **LD Partners:** Organisations that are involved with and supporting the LD.
+- **Counter-Strike 2 (CS2):** The game title utilised for the competition.
+- **LAN Finals:** The final of the competition hosted in Iceland.
+- **Publisher’s Rights:** The rights held by the game publisher (Valve) in relation to any LD event.
+- **Communication:** The means of communication used by the Tournament Officials, participants, and partners, such as discord, chat, or voice communication.
+- **Prize Money:** The monetary rewards given to the winning teams of a LD event.
+ - **Match Broadcasting:** The broadcasting of IEC matches through online platforms such as streaming services
 - **Rights:** The rights held by IEC in relation to the broadcasting and promotion of IEC matches
 - **Valve Corporation (Valve):** The publisher of Counter-Strike 2 (CS2)
 - **Valve Regional Standings (VRS):** The official system for ranking the performance of Rosters published by Valve, provided for the respective regions and applied at the designated Invite Date
