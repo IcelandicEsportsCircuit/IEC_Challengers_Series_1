@@ -41,7 +41,7 @@ LD tournaments are operated in compliance with Valve’s Tournament Operating Re
 
 The format of each tournament may be changed according to the needs of TO. The exact format and schedule will be presented to the invited teams by the TO prior to each competition.
 
-Each Event Additional Information will be announced, as per Valve TOR, via [@UKICircuit](https://x.com/UKICircuit) on X. !!!
+Each Event Additional Information will be announced, as per Valve TOR, via [@UKICircuit](https://x.com/UKICircuit) on X. !!! 🔴🔴
 
 # 3.0 Tournament Information
 
@@ -58,7 +58,7 @@ The format of LD Challengers Series 1 is as follows:
 
 
 ### 3.1.1 Open Qualifier Rules & Regulations
-The live list of registered teams is available here: [Link to Form/Sheet]
+The live list of registered teams is available here: [Link to Form/Sheet] 🔴🔴
 
 **Tournament Capacity & Selection Criteria:**
 
@@ -105,7 +105,7 @@ If invites are used they will be based on VRS sub-lists, as follows:
 |---|---|---|---|
 | LD Challengers Series 1 | Europe VRS<br>(Iceland Country Filter) | Starting from Rank 12 | 4 Invites |
 
-If the number of eligible VRS Teams is lower than the total number of Direct VRS Invite slots, LD reserves the right to reallocate any unfilled slot(s) to Open Qualifiers. This reallocation will be announced via [@UKICircuit](https://x.com/UKICircuit) on X prior to the event.
+If the number of eligible VRS Teams is lower than the total number of Direct VRS Invite slots, LD reserves the right to reallocate any unfilled slot(s) to Open Qualifiers. This reallocation will be announced via [@UKICircuit](https://x.com/UKICircuit) on X prior to the event. 🔴🔴
 
 ## 3.3 Invite Date
 
@@ -115,7 +115,7 @@ Teams have 72 hours to accept an invite. Failure to respond within this timefram
 
 Participants are expected to keep Tournament Officials up to date on relevant team contact details, as well as changes as they occur, to ensure invites are received as intended.
 
-In accordance with Valve’s TOR, the Invite Date, VRS Dates, and Invite Breakdown will be published via [@UKICircuit](https://x.com/UKICircuit) on X along with the Event’s Additional Information.
+In accordance with Valve’s TOR, the Invite Date, VRS Dates, and Invite Breakdown will be published via [@UKICircuit](https://x.com/UKICircuit) on X along with the Event’s Additional Information. 🔴🔴
 
 ## 3.4 Team Replacements
 
@@ -135,7 +135,7 @@ Teams that don’t meet these requirements may be disqualified or replaced witho
 
 ## 3.6 Seed VRS
 
-The Seed VRS will be announced on a per event basis, with the Event Additional Information, via [@UKICircuit](https://x.com/UKICircuit) on X.
+The Seed VRS will be announced on a per event basis, with the Event Additional Information, via [@UKICircuit](https://x.com/UKICircuit) on X. 🔴🔴
 
 ## 3.7 Publisher’s Rights
 
@@ -143,7 +143,7 @@ The Publisher (Valve) reserves the right to remove any player or team from the t
 
 ## 3.8 Communication
 
-<span style="color:red">Við þurfum að setja upp solid communication leið fyrir alla</span>
+Við þurfum að setja upp solid communication leið fyrir alla 🔴🔴
 
 All official communication between participants and the Tournament Organizer will take place via Discord. For Masters, dedicated Discord channels will be created to include team captains, managers, and any other team members from all participating teams.
 
@@ -151,7 +151,7 @@ Teams are responsible for actively monitoring Discord for match updates, schedul
 
 UKIC reserves the right to remove any participant from the Discord server for any breach of tournament rules.
 
-Please use the link below to join: [UK & Ireland Circuit Discord](https://ukicircuit.com/league)
+Please use the link below to join: [UK & Ireland Circuit Discord](https://ukicircuit.com/league) 🔴🔴
 
 ## 3.9 Prize Money
 
@@ -160,7 +160,7 @@ Total Prize Pool for LD Challenger Series 1: 500,000 kr. (~ $3,971 USD)
 2nd Place: 125,000 kr. (~ $991 USD)
 3RD Place: 75,000 kr. (~ $595 USD)
 
-Prize money will be paid out through wire tranfer after the conclusion of the tournament using the national identification number (kennitala) and bank number (bankanúmer) the team provided in the registration.
+Prize money will be paid out through wire transfer after the conclusion of the tournament using the national identification number (kennitala) and bank number (bankanúmer) the team provided in the registration.
 
 ## 3.10 Match Broadcasting
 
@@ -170,7 +170,7 @@ All of the broadcasting rights of LD are owned by the Icelandic Esports Federati
 
 This includes, but is not limited to: Broadcast streams, video streams, podcast streams, radio streams, GOTV, replays, demos, and TV Broadcasts.
 
-By participating in LD, each team and team member consents that their likeness (logo, voice, image, name, nickname, etc) are recorded and broadcasted live and on demand on streaming platforms designated by the organiser.
+By participating in LD, each team and team member consents that their likeness (, voice, image, name, nickname, etc) are recorded and broadcasted live and on demand on streaming platforms designated by the organiser.
 
 LD retains the rights to utilising all LD footage at its own discretion.
 
@@ -184,7 +184,7 @@ Teams may not refuse to have their matches broadcasted by LD authorised broadcas
 
 ## 3.11 Betting on Matches
 
-No players, team managers, staff, or management of attending organisations can place any bets on or be involved in betting or gambling, associate with betters or gamblers, or provide any third party with information that may assist betting or gambling, either directly or indirectly for any UKIC matches or event.
+No players, team managers, staff, or management of attending organisations can place any bets on or be involved in betting or gambling, associate with betters or gamblers, or provide any third party with information that may assist betting or gambling, either directly or indirectly for any LD matches or event.
 
 ## 3.12 Roster Eligibility
 
@@ -202,7 +202,7 @@ Teams are expected to fulfil their tournament commitments in full once participa
 
 Forfeiting matches or withdrawing will also result in forfeiture of any Prize Money accumulated up to that point.
 
-# 4.1 Participation in LD Challenger Series 1
+# 4.1 Participation in LD Challengers Series 1
 
 ## 4.1 Player & Team Eligibility
 
@@ -224,7 +224,7 @@ If a player participated in a single match for one team during the tournament, t
 Any changes to the team must be approved by Tournament Officials before any upcoming match. This includes, but is not limited to:
 
 - Adding or removing players
-- Changing the team name or team logo
+- Changing the team name or team 
 
 ### 4.1.2 Team Eligibility
 
@@ -250,7 +250,7 @@ Roster changes, including the use of stand-ins, are not permitted mid-map (Map i
 
 The use of a stand-in must not violate the VRS Core Roster requirement. Each team must field a minimum of three (3) out of five (5) players from the VRS Core Roster associated with their VRS Invite in every match. Use of a stand-in that causes a team to fall below this threshold is not permitted and will result in a technical loss.
 
-### 4.1.5 Coach Rules
+### 4.1.5 Coach Rules 🔴🔴
 
 Teams are allowed to designate one individual as a coach during matches. The coach will not be connected to the game server but is permitted to join the team’s voice communication channel.
 
@@ -276,7 +276,7 @@ Muna að fara yfir og confirm'a maps rétt fyrir mót 🔴🔴🔴
 - Ancient
 - Overpass
 
-### 4.2.3 FACEIT Matchroom Cycle
+### 4.2.3 FACEIT Matchroom Cycle 🔴🔴 Heyra frá Símoni hvernig match cycle er hjá okkur 🔴🔴
 
 - Vote for server
 - Higher Seed (*Left team)* pick who starts map veto
@@ -296,7 +296,7 @@ Team 1 *(Left Side Team)* has the choice of which team bans first after the whic
 - Team A - Ban
 - Team A - Ban
 - Team B - Ban
-- Final Map Left Over
+- Final Map Left Over (Knife for sides)
 - Knife for sides
 
 **Best of Three’s**
@@ -305,16 +305,11 @@ Team 1 *(Left Side Team)* has the choice of which team bans first after the whic
 
 - Team A - Ban
 - Team B - Ban
-- Team A - Pick
-- Team B - Choice of side *(Given knife round)*
-- Team B - Pick
-- Team A - Choice of side *(Given knife round)*
+- Team A - Pick (Team B - Choice of side)
+- Team B - Pick (Team A - Choice of side)
 - Team A - Ban
 - Team B - Ban
-- Final Map Left Over
-- Knife for sides (3rd Map Only)
-
-On FACEIT, all maps will include a knife round. The team with the choice of map must forfeit the knife round so the opposite team can select their starting side.
+- Final Map Left Over (Knife for sides)
 
 **Best of Five’s**
 
@@ -322,18 +317,11 @@ Team 1 *(Left Side Team)* has the choice of which team bans first after the whic
 
 - Team A - Ban
 - Team B - Ban
-- Team A - Pick
-- Team B - Choice of side *(Given knife round)*
-- Team B - Pick
-- Team A - Choice of side *(Given knife round)*
-- Team A - Pick
-- Team B - Choice of side *(Given knife round)*
-- Team B - Pick
-- Team A - Choice of side *(Given knife round)*
-- Final Map Left Over
-- Knife for sides *(5th Map Only)*
-
-On FACEIT, all maps will include a knife round. The team with the choice of map must forfeit the knife round so the opposite team can select their starting side.
+- Team A - Pick (Team B - Choice of side)
+- Team B - Pick (Team A - Choice of side)
+- Team A - Pick (Team B - Choice of side)
+- Team B - Pick (Team A - Choice of side)
+- Final Map Left Over (Knife for sides)
 
 ### 4.2.5 Match Configuration
 
